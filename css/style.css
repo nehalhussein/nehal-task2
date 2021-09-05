@@ -1,0 +1,27 @@
+
+.rounded-lg {
+    border-radius: 1rem !important;
+  }
+  
+  .text-small {
+    font-size: 0.9rem !important;
+  }
+  
+  .custom-separator {
+    width: 5rem;
+    height: 6px;
+    border-radius: 1rem;
+  }
+  
+  .text-uppercase {
+    letter-spacing: 0.2em;
+  }
+
+  
+body {
+    background: #f3f7f8;
+    background: -webkit-linear-gradient(to right, #f3f7f8 , #f3f7f8);
+    background: linear-gradient(to right, #f5f7f7, #f3f7f8);
+    color: #514B64;
+    min-height: 100vh;
+  }
